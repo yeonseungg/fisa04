@@ -64,13 +64,18 @@ age = 25
 |       |    |   |   |   |
 
 
+```[화면에 출력될 문자](링크)```
+
+```![링크가 깨졌을 때 나올 안내 메세지](링크)```
+
+```imgur```
 [네이버로 가기](https://www.naver.com/)
 
 ![고양이입니다](https://i.imgur.com/knCvaRQ.png)
 
 [![고양이입니다](https://i.imgur.com/knCvaRQ.png)](https://www.naver.com/)"
 
-
+[화면에 출력될 문자]([링크](https://imgur.com/6kHeHFg).png)
 
 
 
