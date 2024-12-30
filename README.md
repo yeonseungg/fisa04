@@ -75,7 +75,7 @@ age = 25
 
 [![고양이입니다](https://i.imgur.com/knCvaRQ.png)](https://www.naver.com/)"
 
-[신짱구](https://imgur.com/6kHeHFg.png)
+[신짱구]([https://imgur.com/6kHeHFg.png](https://i.imgur.com/6kHeHFg.png))
 
 
 
